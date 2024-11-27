@@ -2,7 +2,7 @@
 Made by David Porras
 
 ## Demo
-Käy katsomassa sivu Netlifystä!: []()
+Käy katsomassa sivu Netlifystä!: [https://glistening-cajeta-4a8ec5.netlify.app/](https://glistening-cajeta-4a8ec5.netlify.app/)
 
 Tämä projekti on yksinkertainen elokuvatietosovellus, joka käyttää Finnkino sovellusliittymää elokuvan yksityiskohtien näyttämiseen valitun teatteri- tai elokuvahaun perusteella.
 
